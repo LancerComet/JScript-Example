@@ -1,4 +1,5 @@
 // cscript .\hello-world.whs.js
+// wscript .\hello-world.whs.js
 var message = 'Hello World!'
 
 // Add a debugger to debug this script (Visual Studio is required).

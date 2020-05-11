@@ -1,4 +1,6 @@
 // Code from https://www.informit.com/articles/article.aspx?p=26655&seqNum=5
+// cscript.exe network-info.js
+// wscript.exe network-info.js
 
 var WshNetwork = WScript.CreateObject('WScript.Network')
 var Drives = WshNetwork.EnumNetworkDrives()

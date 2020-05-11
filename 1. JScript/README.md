@@ -15,3 +15,15 @@ You also can use it to make .NET Framework application on Windows just like C# o
 However JScript.NET is almost deprecated. We use C# nowdays.
 
 Check out [this](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/72bd815a(v=vs.100)) for more information about JScript.
+
+## Reference
+
+### JScript for Windows Script Host
+
+[Rob van der Woude's Scripting Books Store](https://www.robvanderwoude.com/wshexamples.php)
+
+[Microsoft Windows Script Host 2.0 Developer's Guide](http://wsh2.uw.hu/)
+
+### JScript for .NET
+
+[MSDN JScript 10.0](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/72bd815a(v=vs.100))
